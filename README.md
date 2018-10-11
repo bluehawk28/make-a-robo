@@ -14,13 +14,12 @@ npm run serve
 ```
 npm run build
 ```
+### Download the server form 
+```
+https://github.com/bluehawk28/robot-server
+```
+### Copy dist folder created after build to server directory
 
-### Run your tests
-```
-npm run test
-```
+### Buld your robot the way you want
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Enjoy

@@ -20,6 +20,6 @@ https://github.com/bluehawk28/robot-server
 ```
 ### Copy dist folder created after build to server directory
 
-### Buld your robot the way you want
+### Start your app on the bot-server and buld your robot the way you want
 
 ### Enjoy

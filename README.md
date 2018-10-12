@@ -22,4 +22,9 @@ https://github.com/bluehawk28/robot-server
 
 ### Start your app on the bot-server and buld your robot the way you want
 
+### Demo on heroku
+```
+https://robo-maker.herokuapp.com
+```
+
 ### Enjoy
